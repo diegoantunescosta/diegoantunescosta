@@ -1,4 +1,4 @@
-<h1 align="center">Aoba Bem Vindo(a) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there!</h1>
+<h1 align="center">Aoba Bem Vindo(a) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ![](https://media.giphy.com/media/kFNOjYHyiasfjuhK1T/giphy.gif)
 
