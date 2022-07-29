@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there!</h1>
+<h1 align="center">Aoba Bem Vindo(a) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there!</h1>
 
 ![](https://media.giphy.com/media/kFNOjYHyiasfjuhK1T/giphy.gif)
 
 <img src="https://gpvc.arturio.dev/klasinky"></p>
-<h3 align="left">Connect with me:</h3><p align="right">
+<h3 align="left">Contato</h3><p align="right">
 
 <p align="left">
 
